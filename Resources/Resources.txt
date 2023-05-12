@@ -10,6 +10,8 @@ https://www.statsmodels.org/stable/examples/notebooks/generated/tsa_arma_0.html
 statsmodel Import Paths and Structure
 https://www.statsmodels.org/stable/api-structure.html
 
+Dickey–Fuller test wiki
+https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test
 
 
 

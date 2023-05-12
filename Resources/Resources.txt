@@ -1,0 +1,30 @@
+Forecasting Future Sales Using ARIMA and SARIMAX
+https://www.youtube.com/watch?v=2XGSIlgUBDI
+
+krishnaik06/ARIMA-And-Seasonal-ARIMA github
+https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA/blob/master/Untitled.ipynb
+
+Autoregressive Moving Average (ARMA): Sunspots data
+https://www.statsmodels.org/stable/examples/notebooks/generated/tsa_arma_0.html
+
+statsmodel Import Paths and Structure
+https://www.statsmodels.org/stable/api-structure.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
